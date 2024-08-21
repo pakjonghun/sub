@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/",
-      "destination": "http://b.best5997.com"
+      "source": "/about",
+      "destination": "http://b.best5997.com/about"
     }
   ]
 }
