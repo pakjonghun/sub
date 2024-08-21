@@ -2,7 +2,14 @@
   "rewrites": [
     {
       "source": "/about",
-      "destination": "http://b.best5997.com/about"
+      "destination": "https://b.best5997.com/about"
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/about",
+      "destination": "https://a.example.com/about",
+      "permanent": false
     }
   ]
 }
